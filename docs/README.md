@@ -8,7 +8,7 @@
 - 屈文景 / 男 / 22 岁
 - 陕西省 / 西安市
 - 本科 / 西安建筑科技大学 / 计算机科学与技术
-- 工作年限：0 年
+- 工作经验：-1 年
 <!-- - 微博：[@Easy](http://weibo.com/easy) -->
 - 技术博客：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) 
   <!-- - CSDN：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) -->

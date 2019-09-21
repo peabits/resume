@@ -8,7 +8,7 @@
 - 屈文景 / 男 / 22 岁
 - 陕西省 / 西安市
 - 本科 / 西安建筑科技大学 / 计算机科学与技术
-- 工作年限：0 年
+- 工作经验：-1 年
 <!-- - 微博：[@Easy](http://weibo.com/easy) -->
 - 技术博客：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) 
   <!-- - CSDN：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) -->
@@ -98,7 +98,7 @@
 
 **技术：** GitBook/docsify
 
-本项目采用 GitBook/docsify 发布关于 Java 源码分析的文档网站，记录自己学习Java源码的过程。目前，此项目正处于萌芽阶段，我会尽我最大努力去完善最主要的部分。同时欢迎各位参与贡献，帮助此项目成长，我将不胜感激。待到此项目成熟之后，也能够帮助更多的人学习 Java 语言，更好地学习 Java 语言。
+本项目采用 GitBook/docsify 发布关于 Java 源码分析的文档网站，记录自己学习 Java 源码的过程。目前，此项目正处于萌芽阶段，我会尽我最大努力去完善最主要的部分。同时欢迎各位参与贡献，帮助此项目成长，我将不胜感激。待到此项目成熟之后，也能够帮助更多的人学习 Java 语言，更好地学习 Java 语言。
 
 ---
 
