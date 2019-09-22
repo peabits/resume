@@ -11,10 +11,10 @@
 - Phone：18109265867
 - Email：<peabits@163.com>
 <!-- - 微博：[@Easy](http://weibo.com/easy) -->
-- 技术博客：<a href="http://peabits.gitee.io/csdn/" target="_blank">http://peabits.gitee.io/csdn/</a>
+- 技术博客：<a href="https://peabits.gitee.io/csdn/" target="_blank">https://peabits.gitee.io/csdn/</a>
   <!-- - CSDN：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) -->
   <!-- - GitHub：[http://peabits.github.io/](http://peabits.github.io/) -->
-- GitHub：<a href="http://github.com/peabits/" target="_blank">http://github.com/peabits/</a>
+- GitHub：<a href="https://github.com/peabits/" target="_blank">https://github.com/peabits/</a>
 - 工作经验：-1 年
 - 期望职位：Java 后端开发工程师 or 大数据相关职位
 - 期望薪资：暂无
