@@ -25,6 +25,7 @@
 <div style='float:left; width:30%' align='left'><b>2016.09-2020.06</b></div>
 <div style='float:right; width:40%' align='right'><b>计算机科学与技术（本科）</b></div>
 <div align='center'><b>西安建筑科技大学</b></div>
+
 <b>主修课程：</b>C/C++ 语言、Java 语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
 
 <!-- <div align='center'>
