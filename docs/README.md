@@ -1,20 +1,21 @@
 
 <div style='float: right'>
-    <img alt='我的' src='./img/我的.jpg' height='140px' width='100px'/>
+    <img alt='我的' src='./img/我的.jpg' height='140px' width='100px' />
 </div>
 
 # <img src="./img/个人信息.svg" /> 个人信息
 
 - 屈文景 / 男 / 22 岁
 - 陕西省 / 西安市
-- 18109265867 / <peabits@163.com>
 - 本科 / 西安建筑科技大学 / 计算机科学与技术
-- 工作经验：-1 年
+- Phone：18109265867
+- Email：<peabits@163.com>
 <!-- - 微博：[@Easy](http://weibo.com/easy) -->
 - 技术博客：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) 
   <!-- - CSDN：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) -->
   <!-- - GitHub：[http://peabits.github.io/](http://peabits.github.io/) -->
 - GitHub：[http://github.com/peabits/](http://github.com/peabits/)
+- 工作经验：-1 年
 - 期望职位：Java 后端开发工程师 or 大数据相关职位
 - 期望薪资：暂无
 - 期望城市：深圳、成都、杭州、西安
@@ -48,7 +49,7 @@
 
 ---
 
-# <img src='./img/竞赛证书.svg'> 竞赛证书
+# <img src='./img/竞赛证书.svg' /> 竞赛证书
 
 - 2016.12 英语 CET-4
 - 2018.05~2018.12 数学建模校赛一等奖，国赛省级二等奖
@@ -57,7 +58,7 @@
 
 ---
 
-# <img src='./img/专业技能.svg'> 专业技能
+# <img src='./img/专业技能.svg' /> 专业技能
 
 1. 熟悉 Java 语言编程思想以及高级特性：面向对象，IO 流，多线程，集合框架，反射，JVM，设计模式等
 2. 熟悉常用的数据结构与算法：顺序表，队列，栈，堆，二叉树，红黑树，散列表，排序算法等
@@ -69,7 +70,7 @@
 
 ---
 
-# <img src='./img/项目经验.svg'>  项目经验
+# <img src='./img/项目经验.svg' />  项目经验
 
 <h4>基于深度学习的特色小镇热点区域可视化系统</h4>
 
@@ -97,18 +98,16 @@
 
 ---
 
-# <img src='./img/实习经历.svg'> 实习经历
+# <img src='./img/实习经历.svg' /> 实习经历
 
 <div style='float:left; width:30%' align='left'><b>017.12~2018.01</b></div>
 <div style='float:right; width:40%' align='right'><b>软件开发小组组长</b></div>
 <div align='center'><b>西安软通动力公司</b></div>
 
-1. 本次实习负责设计电梯控制系统软件
-2. 担任小组组长（10人），负责人员任务划分及后续的程序开发
-3. 使用 C++ 程序设计语言和 Visual Studio 开发工具，进行电梯控制系统软件的设计
-4. 经过需求分析，设计实现方案，程序设计，测试以及问题处理，最终交付项目
-5. 在规定时间内完成软件的设计，虽然出现了不少问题，但是按要求实现了所有功点
-6. 在实习过程中，学习了软件开发流程，认识到了团队协作的重要性
+1. 本次实习主要负责设计电梯控制系统软件
+2. 担任小组组长（10人），负责任务划分以及程序开发
+3. 使用 C++ 和 VS2017 进行软件的设计。经过需求分析、设计、实现、测试，最终交付项目
+4. 在实习过程中，较为完整地学习了项目的软件开发流程，认识到了软件工程的重要意义
 
 <!-- <div align='center'>
     <table width='100%' border='0px'>
@@ -134,7 +133,7 @@
 
 ---
 
-# <img src='./img/自我评价.svg'> 自我评价
+# <img src='./img/自我评价.svg' /> 自我评价
 
 - 积极参加各种社团活动和比赛，参加了装机大赛，计算机组网比赛，ACM 程序设计竞赛等
 - 自学能力较强，大学期间自学 MATLAB，Python 等编程语言，参加了数学建模比赛
@@ -144,17 +143,18 @@
 
 ---
 
-# <img src='./img/联系方式.svg'> 联系方式
+# <img src='./img/联系方式.svg' /> 联系方式
 
 - 手机：18109265867
 - 微信：18109265867
 - QQ：1602488786
-- Email：<a href = "mailto:peabits@163.com">peabits@163.com</a> or <a href = "mailto:peabits@gmail.com">peabits@gmail.com</a>
+- Email：<peabits@163.com> or <peabits@gmail.com>
 - GitHub：[https://github.com/peabits/](https://github.com/peabits/)
+- Gitee：[https://gitee.com/peabits/](https://gitee.com/peabits/)
 
 ---
 
-# <img src='./img/致谢.svg'>  致谢
+# <img src='./img/致谢.svg' />  致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
