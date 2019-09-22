@@ -1,6 +1,6 @@
 
 <div style='float: right'>
-    <img alt='我的' src='./img/photo.jpg' height='140px' width='100px'/>
+    <img alt='我的' src='./img/我的.jpg' height='140px' width='100px'/>
 </div>
 
 # <img src="./img/个人信息.svg" /> 个人信息

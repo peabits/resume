@@ -3,9 +3,9 @@
 
 <!-- more -->
 
-<img alt='我的' src='./docs/img/photo.jpg' height='140px' width='100px' align='right'/>
+<img alt='我的' src='./docs/img/我的.jpg' height='140px' width='100px' align='right'/>
 
-# <img src='./docs/img/个人信息.png' height='25'> 个人信息
+# <img src='./docs/img/个人信息.svg'> 个人信息
 
 - 屈文景 / 男 / 22 岁
 - 陕西省 / 西安市
@@ -19,7 +19,7 @@
 
 ---
 
-# <img src='./docs/img/学位.png' height='25'> 教育背景
+# <img src='./docs/img/教育背景.svg'> 教育背景
 
 **2016.09-2020.06**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**西安建筑科技大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**计算机科学与技术（本科）**
 
@@ -28,7 +28,7 @@
 
 ---
 
-# <img src='./docs/img/证书.png' height='25'> 竞赛证书
+# <img src='./docs/img/竞赛证书.svg'> 竞赛证书
 
 - 2016.12 英语 CET-4
 - 2018.05~2018.12 数学建模校赛一等奖，国赛省级二等奖
@@ -37,7 +37,7 @@
 
 ---
 
-# <img src='./docs/img/技能.png' height='25'> 专业技能
+# <img src='./docs/img/专业技能.svg'> 专业技能
 
 1. 熟悉 Java 语言编程思想以及高级特性：面向对象，IO 流，多线程，集合框架，反射，JVM，设计模式等
 2. 熟悉常用的数据结构与算法：顺序表，队列，栈，堆，二叉树，红黑树，散列表，排序算法等
@@ -49,7 +49,7 @@
 
 ---
 
-# <img src='./docs/img/项目.png' height='25'> 项目经验
+# <img src='./docs/img/项目经验.svg'> 项目经验
 
 <h4>基于深度学习的特色小镇热点区域可视化系统</h4>
 
@@ -77,7 +77,7 @@
 
 ---
 
-# <img src='./docs/img/实习.png' height='25'> 实习经历
+# <img src='./docs/img/实习经历.svg'> 实习经历
 
 **2017.12~2018.01**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**西安软通动力公司**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**软件开发小组组长**
 
@@ -92,7 +92,7 @@
 
 ---
 
-# <img src='./docs/img/自我评价.png' height='25'> 自我评价
+# <img src='./docs/img/自我评价.svg'> 自我评价
 
 - 积极参加各种社团活动和比赛，参加了装机大赛，计算机组网比赛，ACM 程序设计竞赛等
 - 自学能力较强，大学期间自学 MATLAB，Python 等编程语言，参加了数学建模比赛
@@ -102,7 +102,7 @@
 
 ---
 
-# <img src='./docs/img/联系方式.png' height='25'> 联系方式
+# <img src='./docs/img/联系方式.svg'> 联系方式
 
 - 手机：18109265867
 - 微信：18109265867
@@ -112,6 +112,6 @@
 
 ---
 
-# <img src='./docs/img/致谢.png' height='25'>  致谢
+# <img src='./docs/img/致谢.svg'>  致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
