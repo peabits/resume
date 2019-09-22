@@ -23,7 +23,7 @@
 
 # <img src='./docs/img/学位.png' height='25'> 教育背景
 
-**2016.09-2020.06**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**西安建筑科技大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**计算机科学与技术（本科）**
+**2016.09-2020.06**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**西安建筑科技大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**计算机科学与技术（本科）**
 
 <b>主修课程：</b>C/C++ 语言、Java 语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
 <br />
