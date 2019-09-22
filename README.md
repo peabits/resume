@@ -10,6 +10,7 @@
 - 屈文景 / 男 / 22 岁
 - 陕西省 / 西安市
 - 本科 / 西安建筑科技大学 / 计算机科学与技术
+- :iphone: 18109265867 / <peabits@163.com>
 - 工作经验：-1 年
 - 技术博客：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/)
 - GitHub：[http://github.com/peabits/](http://github.com/peabits/)
