@@ -18,22 +18,15 @@
 - 期望薪资：暂无
 - 期望城市：深圳、成都、杭州、西安
 
-<!-- <a href='http://github.com/peabits/' target='blank'>http://github.com/peabits/</a> -->
-
 ---
 
 # <img src='./img/学位.png' height='25'> 教育背景
 
-<div>
-    <div style='float:left; width:30%' align='left'>2016.09-2020.06</div>
-    <div style='float:right; width:40%' align='right'>计算机科学与技术（本科）</div>
-    <div align='center'>西安建筑科技大学</div>
-</div>
-<br />
-<div>
-    <b>主修课程：</b>C/C++ 语言、Java 语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
-</div>
-<br />
+<div style='float:left; width:30%' align='left'><b>2016.09-2020.06</b></div>
+<div style='float:right; width:40%' align='right'><b>计算机科学与技术（本科）</b></div>
+<div align='center'><b>西安建筑科技大学</b></div>
+<b>主修课程：</b>C/C++ 语言、Java 语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
+
 <!-- <div align='center'>
     <table width='100%' border='0px'>
         <tr>
@@ -86,13 +79,9 @@
 - 深度学习环境：CUDA+cuDNN
 - 开发语言：JavaScript+Python
 
-**主要功能**：
+**主要功能：** 本项目通过构建深度学习模型，使用大量数据进行训练、调优，并基于此模型预测未来一段时间内人口密度分布的变化情况，并以热力图的形式在地图上呈现。
 
-本项目通过构建深度学习模型，使用大量数据进行训练、调优，并基于此模型预测未来一段时间内人口密度分布的变化情况，并以热力图的形式在地图上呈现。
-
-**我的职责：**
-
-在项目中主要负责搭建深度学习的运行环境，利用爬虫程序爬取原始流量数据并做相应处理，撰写项目的设计与开发文档。
+**我的职责：** 在项目中主要负责搭建深度学习的运行环境，利用爬虫程序爬取原始流量数据并做相应处理，撰写项目的设计与开发文档。
 
 <h4>Java 源码分析</h4>
 
@@ -104,21 +93,16 @@
 
 # <img src='./img/实习.png' height='25'> 实习经历
 
-<div>
-    <div style='float:left; width:30%' align='left'>2017.12~2018.01</div>
-    <div style='float:right; width:40%' align='right'>软件开发小组组长</div>
-    <div align='center'>西安软通动力公司</div>
-</div>
-<div>
-    <ol>
-        <li>本次实习负责设计电梯控制系统软件</li>
-        <li>担任小组组长（10人），负责人员任务划分及后续的程序开发</li>
-        <li>使用 C++ 程序设计语言和 Visual Studio 开发工具，进行电梯控制系统软件的设计</li>
-        <li>经过需求分析，设计实现方案，程序设计，测试以及问题处理，最终交付项目</li>
-        <li>在规定时间内完成软件的设计，虽然出现了不少问题，但是按要求实现了所有功点</li>
-        <li>在实习过程中，学习了软件开发流程，认识到了团队协作的重要性</li>
-    </ol>
-</div>
+<div style='float:left; width:30%' align='left'><b>017.12~2018.01</b></div>
+<div style='float:right; width:40%' align='right'><b>软件开发小组组长</b></div>
+<div align='center'><b>西安软通动力公司</b></div>
+
+1. 本次实习负责设计电梯控制系统软件
+2. 担任小组组长（10人），负责人员任务划分及后续的程序开发
+3. 使用 C++ 程序设计语言和 Visual Studio 开发工具，进行电梯控制系统软件的设计
+4. 经过需求分析，设计实现方案，程序设计，测试以及问题处理，最终交付项目
+5. 在规定时间内完成软件的设计，虽然出现了不少问题，但是按要求实现了所有功点
+6. 在实习过程中，学习了软件开发流程，认识到了团队协作的重要性
 
 <!-- <div align='center'>
     <table width='100%' border='0px'>

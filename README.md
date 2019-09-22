@@ -17,8 +17,6 @@
 - 期望薪资：暂无
 - 期望城市：深圳、成都、杭州、西安
 
-<!-- <a href='http://github.com/peabits/' target='blank'>http://github.com/peabits/</a> -->
-
 ---
 
 # <img src='./docs/img/学位.png' height='25'> 教育背景
