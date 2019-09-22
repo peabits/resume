@@ -1,7 +1,9 @@
+---
+---
 
-<div style='float: right'>
-    <img alt='我的' src='./docs/img/photo.jpg' height='140px' width='100px'/>
-</div>
+<!-- more -->
+
+<img alt='我的' src='./docs/img/photo.jpg' height='140px' width='100px' align='right'/>
 
 # <img src='./docs/img/个人信息.png' height='25'> 个人信息
 
@@ -9,10 +11,7 @@
 - 陕西省 / 西安市
 - 本科 / 西安建筑科技大学 / 计算机科学与技术
 - 工作经验：-1 年
-<!-- - 微博：[@Easy](http://weibo.com/easy) -->
-- 技术博客：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) 
-  <!-- - CSDN：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/) -->
-  <!-- - GitHub：[http://peabits.github.io/](http://peabits.github.io/) -->
+- 技术博客：[http://peabits.gitee.io/csdn/](http://peabits.gitee.io/csdn/)
 - GitHub：[http://github.com/peabits/](http://github.com/peabits/)
 - 期望职位：Java 后端开发工程师 or 大数据相关职位
 - 期望薪资：暂无
@@ -24,32 +23,10 @@
 
 # <img src='./docs/img/学位.png' height='25'> 教育背景
 
-<div>
-    <div style='float:left; width:30%' align='left'>2016.09-2020.06</div>
-    <div style='float:right; width:40%' align='right'>计算机科学与技术（本科）</div>
-    <div align='center'>西安建筑科技大学</div>
-</div>
+**2016.09-2020.06**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**西安建筑科技大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**计算机科学与技术（本科）**
+
+<b>主修课程：</b>C/C++ 语言、Java 语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
 <br />
-<div>
-    <b>主修课程：</b>C/C++ 语言、Java 语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
-</div>
-<br />
-<!-- <div align='center'>
-    <table width='100%' border='0px'>
-        <tr>
-            <td width='30%' align='left'>2016.09-2020.06</td>
-            <td width='30%' align='center'>西安建筑科技大学</td>
-            <td width='40%' align='right'>计算机科学与技术（本科）</td>
-        </tr>
-        <tr>
-            <td colspan='3'>
-                <b>主修课程：</b>
-                <br />
-                C/C++语言、Java语言、数据结构、算法、数据库、计算机网络、操作系统、编译原理等
-            </td>
-        </tr>
-    </table>
-</div> -->
 
 ---
 
@@ -104,43 +81,16 @@
 
 # <img src='./docs/img/实习.png' height='25'> 实习经历
 
-<div>
-    <div style='float:left; width:30%' align='left'>2017.12~2018.01</div>
-    <div style='float:right; width:40%' align='right'>软件开发小组组长</div>
-    <div align='center'>西安软通动力公司</div>
-</div>
-<div>
-    <ol>
-        <li>本次实习负责设计电梯控制系统软件</li>
-        <li>担任小组组长（10人），负责人员任务划分及后续的程序开发</li>
-        <li>使用 C++ 程序设计语言和 Visual Studio 开发工具，进行电梯控制系统软件的设计</li>
-        <li>经过需求分析，设计实现方案，程序设计，测试以及问题处理，最终交付项目</li>
-        <li>在规定时间内完成软件的设计，虽然出现了不少问题，但是按要求实现了所有功点</li>
-        <li>在实习过程中，学习了软件开发流程，认识到了团队协作的重要性</li>
-    </ol>
-</div>
+**2017.12~2018.01**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**西安软通动力公司**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**软件开发小组组长**
 
-<!-- <div align='center'>
-    <table width='100%' border='0px'>
-    <tr>
-        <td width='30%' align='left'>2017.12~2018.01</td>
-        <td width='40%' align='center'>西安软通动力公司 </td>
-        <td width='30%' align='right'>软件开发小组组长</td>
-    </tr>
-    <tr>
-        <td colspan='3'>
-        <ol>
-            <li>本次实习负责设计电梯控制系统软件</li>
-            <li>担任小组组长（10人），负责人员任务划分及后续的程序开发</li>
-            <li>使用C++程序设计语言和Visual Studio开发工具，进行电梯控制系统软件的设计</li>
-            <li>经过需求分析，设计实现方案，程序设计，测试以及问题处理，最终交付项目</li>
-            <li>在规定时间内完成软件的设计，虽然出现了不少问题，但是按要求实现了所有功点</li>
-            <li>在实习过程中，学习了软件开发流程，认识到了团队协作的重要性</li>
-        </ol>
-        </td>
-    </tr>
-    </table>
-</div> -->
+<ol>
+    <li>本次实习负责设计电梯控制系统软件</li>
+    <li>担任小组组长（10人），负责人员任务划分及后续的程序开发</li>
+    <li>使用 C++ 程序设计语言和 Visual Studio 开发工具，进行电梯控制系统软件的设计</li>
+    <li>经过需求分析，设计实现方案，程序设计，测试以及问题处理，最终交付项目</li>
+    <li>在规定时间内完成软件的设计，虽然出现了不少问题，但是按要求实现了所有功点</li>
+    <li>在实习过程中，学习了软件开发流程，认识到了团队协作的重要性</li>
+</ol>
 
 ---
 
@@ -167,9 +117,3 @@
 # <img src='./docs/img/致谢.png' height='25'>  致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
