@@ -1,5 +1,5 @@
 
-![logo](./img/resume.svg)
+![logo](./img/简历.svg)
 
 # RESUME
 
